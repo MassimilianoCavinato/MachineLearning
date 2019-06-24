@@ -1,1 +1,1 @@
-machine learning study
+Machine Learning, cases and tests
